@@ -1,0 +1,4 @@
+nengo
+lava-nc
+numpy
+matplotlib
